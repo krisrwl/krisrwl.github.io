@@ -242,3 +242,24 @@ Blockquotes = Notes/Tips
 Collapsible = Hide/Show detail
 
 Keep it simple, consistent, and clear.
+
+## Table of Contents
+Add these three links above your existing Notebook Style Guide link:
+
+- [Blocks](#blocks)
+- [Concepts](#concepts)
+- [Vocabulary](#vocabulary)
+  
+
+## Table of Contents
+
+- [Blocks](#blocks)
+- [Concepts](#concepts)
+- [Vocabulary](#vocabulary)
+- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+
+Hat blocks	Start a stack of blocks and are shaped to attach blocks below them.	Comparison of a VEXcode VR project in block-based and text-based code
+Stack blocks	Perform main commands. They are shaped to attach above or below other stack blocks.	Examples of hat, stack, Boolean, and reporter block shapes in VEXcode VR	Examples of hat, stack, Boolean, and reporter block shapes in VEXcode VR
+Boolean blocks	Return a condition as either true or false and fits inside any blocks with hexagonal (six-sided) inputs for other blocks.	<Detects bumper switch pressed condition>	Hat block with a stack block connected below to show how a block sequence starts
+Reporter blocks	Report values in the form of numbers and fits inside any blocks with oval inputs for other blocks.	Examples of hat, stack, Boolean, and reporter block shapes in VEXcode VR	Examples of hat, stack, Boolean, and reporter block shapes in VEXcode VR
+C blocks	Loop the block(s) within them or check if a condition is true or false. They are shaped to attach stack blocks above, below, or inside them.
